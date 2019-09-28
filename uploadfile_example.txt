@@ -1,0 +1,2 @@
+5,What is your age?,18,under 10,19,above 20,What is your fav. doctor?,NULL,No body,No doctors,all answers,which company is the best,no companies,Atypone,dell,samsung,Are you hard worker,yes,some how,no,don't know,did you love your life,yes,no,no answer,hate it,
+6,1,2,3,4,5,6
